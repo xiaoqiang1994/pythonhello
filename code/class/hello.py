@@ -1,7 +1,2 @@
-print("hello")
 
-
-print("test")
-a=10
-b=20
-c=30
+print ("你好，世界");
